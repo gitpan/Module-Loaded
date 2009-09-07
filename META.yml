@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Module-Loaded
-version:            0.04
+version:            0.06
 abstract:           Mark modules as loaded/unloaded
 author:
     - Jos Boumans <kane[at]cpan.org>
